@@ -51,8 +51,8 @@ Sou um desenvolvedor apaixonado por construir experiências digitais de alto imp
 ## 📫 Vamos conversar?
 
 📧 **patrick@cosmoscode.com.br**  
-🌐 https://cosmoscode.com.br  
-📱 Disponível para **freelas, parcerias e oportunidades CLT**.  
+🌐 https://patrick.cosmoscode.com.br
+📱 Disponível para **freelas, parcerias e oportunidades CLT/PJ**.  
 
 > Me chama no LinkedIn ou aqui no GitHub mesmo! 😉
 
